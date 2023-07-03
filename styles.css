@@ -1,4 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@700&family=PT+Sans&display=swap');
 img {
-    width: 600px;
-    height: auto;
+    width: auto;
+    height: 600px;
+}
+
+
+* {
+    background: #8ecae6;
+    color: #023047;
+    font-family: "PT Sans", sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4 {
+    font-family: Nunito, sans-serif;
+}
+
+a {
+    color: #FB8500;
 }
